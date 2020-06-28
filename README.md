@@ -1,2 +1,4 @@
 # hello-world
-Just another repository 
+Hello world!
+I am Shreya Choure.
+Today is my 1st day on GitHub
